@@ -5,7 +5,7 @@ package compositepattern;
  * @author Matteo Veroni
  */
 
-public class CompositePattern {
+public class MainCompositePattern {
 
     public static void main(String[] args) {
         
